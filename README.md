@@ -46,7 +46,7 @@ git clone --recursive https://github.com/QData/AdversarialDNN-Playground.git
 The primary requirements for this package are Python 3 with Tensorflow version 1.0.1 or greater.  The `requirements.txt` file contains a listing of the required Python packages; to install all requirements, run the following:
 
 ```
-pip3 -r install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 If the above command does not work, use the following:
